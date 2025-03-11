@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <!-- 首頁 -->
+  <url>
+    <loc>https://www.tory-tech.com.tw/index.html</loc>
+    <lastmod>2023-08-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.tory-tech.com.tw/index.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.tory-tech.com.tw/index-cn.html"/>
+  </url>
+  
+  <!-- 中文首頁 -->
+  <url>
+    <loc>https://www.tory-tech.com.tw/index-cn.html</loc>
+    <lastmod>2023-08-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.tory-tech.com.tw/index.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.tory-tech.com.tw/index-cn.html"/>
+  </url>
+  
+  <!-- 關於我們頁面 -->
+  <url>
+    <loc>https://www.tory-tech.com.tw/about.html</loc>
+    <lastmod>2023-08-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.tory-tech.com.tw/about.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.tory-tech.com.tw/about-cn.html"/>
+  </url>
+  
+  <!-- 中文關於我們頁面 -->
+  <url>
+    <loc>https://www.tory-tech.com.tw/about-cn.html</loc>
+    <lastmod>2023-08-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.tory-tech.com.tw/about.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.tory-tech.com.tw/about-cn.html"/>
+  </url>
+  
+  <!-- 產品頁面 -->
+  <url>
+    <loc>https://www.tory-tech.com.tw/product.html</loc>
+    <lastmod>2023-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.tory-tech.com.tw/product.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.tory-tech.com.tw/product-cn.html"/>
+  </url>
+  
+  <!-- 中文產品頁面 -->
+  <url>
+    <loc>https://www.tory-tech.com.tw/product-cn.html</loc>
+    <lastmod>2023-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.tory-tech.com.tw/product.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.tory-tech.com.tw/product-cn.html"/>
+  </url>
+  
+  <!-- 測試插座產品頁面 -->
+  <url>
+    <loc>https://www.tory-tech.com.tw/product-testing-sockets.html</loc>
+    <lastmod>2023-08-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.tory-tech.com.tw/product-testing-sockets.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.tory-tech.com.tw/product-testing-sockets-cn.html"/>
+  </url>
+  
+  <!-- 中文測試插座產品頁面 -->
+  <url>
+    <loc>https://www.tory-tech.com.tw/product-testing-sockets-cn.html</loc>
+    <lastmod>2023-08-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.tory-tech.com.tw/product-testing-sockets.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.tory-tech.com.tw/product-testing-sockets-cn.html"/>
+  </url>
+  
+  <!-- 燒錄插座產品頁面 -->
+  <url>
+    <loc>https://www.tory-tech.com.tw/product-burn-in-sockets.html</loc>
+    <lastmod>2023-08-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.tory-tech.com.tw/product-burn-in-sockets.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.tory-tech.com.tw/product-burn-in-sockets-cn.html"/>
+  </url>
+  
+  <!-- 中文燒錄插座產品頁面 -->
+  <url>
+    <loc>https://www.tory-tech.com.tw/product-burn-in-sockets-cn.html</loc>
+    <lastmod>2023-08-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.tory-tech.com.tw/product-burn-in-sockets.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.tory-tech.com.tw/product-burn-in-sockets-cn.html"/>
+  </url>
+  
+  <!-- 高頻探針產品頁面 -->
+  <url>
+    <loc>https://www.tory-tech.com.tw/product-high-frequency-probes.html</loc>
+    <lastmod>2023-08-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.tory-tech.com.tw/product-high-frequency-probes.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.tory-tech.com.tw/product-high-frequency-probes-cn.html"/>
+  </url>
+  
+  <!-- 中文高頻探針產品頁面 -->
+  <url>
+    <loc>https://www.tory-tech.com.tw/product-high-frequency-probes-cn.html</loc>
+    <lastmod>2023-08-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.tory-tech.com.tw/product-high-frequency-probes.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.tory-tech.com.tw/product-high-frequency-probes-cn.html"/>
+  </url>
+  
+  <!-- 探針卡針產品頁面 -->
+  <url>
+    <loc>https://www.tory-tech.com.tw/product-probe-card-needles.html</loc>
+    <lastmod>2023-08-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.tory-tech.com.tw/product-probe-card-needles.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.tory-tech.com.tw/product-probe-card-needles-cn.html"/>
+  </url>
+  
+  <!-- 中文探針卡針產品頁面 -->
+  <url>
+    <loc>https://www.tory-tech.com.tw/product-probe-card-needles-cn.html</loc>
+    <lastmod>2023-08-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.tory-tech.com.tw/product-probe-card-needles.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.tory-tech.com.tw/product-probe-card-needles-cn.html"/>
+  </url>
+  
+  <!-- ASIC測試解決方案頁面 -->
+  <url>
+    <loc>https://www.tory-tech.com.tw/product-asic-testing-solutions.html</loc>
+    <lastmod>2023-08-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.tory-tech.com.tw/product-asic-testing-solutions.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.tory-tech.com.tw/product-asic-testing-solutions-cn.html"/>
+  </url>
+  
+  <!-- 中文ASIC測試解決方案頁面 -->
+  <url>
+    <loc>https://www.tory-tech.com.tw/product-asic-testing-solutions-cn.html</loc>
+    <lastmod>2023-08-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.tory-tech.com.tw/product-asic-testing-solutions.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.tory-tech.com.tw/product-asic-testing-solutions-cn.html"/>
+  </url>
+  
+  <!-- 導電膠產品頁面 -->
+  <url>
+    <loc>https://www.tory-tech.com.tw/product-conductive-adhesives.html</loc>
+    <lastmod>2023-08-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.tory-tech.com.tw/product-conductive-adhesives.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.tory-tech.com.tw/product-conductive-adhesives-cn.html"/>
+  </url>
+  
+  <!-- 中文導電膠產品頁面 -->
+  <url>
+    <loc>https://www.tory-tech.com.tw/product-conductive-adhesives-cn.html</loc>
+    <lastmod>2023-08-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.tory-tech.com.tw/product-conductive-adhesives.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.tory-tech.com.tw/product-conductive-adhesives-cn.html"/>
+  </url>
+  
+  <!-- 聯絡我們頁面 -->
+  <url>
+    <loc>https://www.tory-tech.com.tw/contact.html</loc>
+    <lastmod>2023-08-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.tory-tech.com.tw/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.tory-tech.com.tw/contact-cn.html"/>
+  </url>
+  
+  <!-- 中文聯絡我們頁面 -->
+  <url>
+    <loc>https://www.tory-tech.com.tw/contact-cn.html</loc>
+    <lastmod>2023-08-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.tory-tech.com.tw/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.tory-tech.com.tw/contact-cn.html"/>
+  </url>
+  
+</urlset> 
